@@ -1,2 +1,1 @@
-# hello-world
-NoSQL
+am interested in Java and MongoDB
